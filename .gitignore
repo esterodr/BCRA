@@ -7,4 +7,7 @@ tasas/
 BCRA.Rproj
 index.Rmd
 actualización.R
+actualización_deuda.R
+actualización_tasasreales.R
+actualización_agregados.R
 
