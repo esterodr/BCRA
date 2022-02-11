@@ -4,6 +4,7 @@
 .Ruserdata
 deuda/
 tasas/
+balance/
 BCRA.Rproj
 index.Rmd
 actualización.R
